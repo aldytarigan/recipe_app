@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
             padding: EdgeInsets.all(4),
             decoration: BoxDecoration(
               shape: BoxShape.circle,
-              color: Colors.red, // Set your desired background color here
+              color: Colors.red,
             ),
             child: Icon(
               Icons.add,
